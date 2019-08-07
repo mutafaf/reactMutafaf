@@ -10,7 +10,7 @@ export class About extends React.Component {
             <div className="section-heading brand_c">About</div>
             <div className="section-detail col2">
               <div className="about-img">
-                <amp-img src={{"http://www.mutafaf.com/wp-content/uploads/2018/05/landing-e1533131080247.jpg"}} width={{"20"}} height={{"12"}} layout={{"responsive"}}></amp-img>
+                 <amp-img src={"http://www.mutafaf.com/wp-content/uploads/2018/05/landing-e1533131080247.jpg"} width={20} height={12} layout="responsive"></amp-img>
               </div>
               <div className="about-detail"><p>I am a passionate Senior Full Stack Engineer with proven ability to craft wide range of web applications, varying from small scale to large scale. I have worked with Leading Technology Companies and Consumer-based Businesses. I have experience leading the development teams in-house and remote.</p>
                 <p>I have experience of working in a dozen of web technologies. When it comes to web application, it involves Client-side &amp; Server-side development as well as designing the Databases and deploying the code base.</p>
